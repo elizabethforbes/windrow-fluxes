@@ -1,0 +1,13 @@
+PrettyName,Units,CodeName
+Base Weather Station Churchtown,NA,NA
+Temperature (*F),*F,TMPA
+Soil Moist-VWC (%VWC),%VWC,VWCB
+PAR Light (uM/m^2s),uM/m^2s,PAR
+Bar.Pressure (In-Hg),In-Hg,BAR
+RH (%),%,HMD
+Temperature (*F),*F,TMP
+Rainfall (In),In,RNF
+Wind Dir (Deg),Deg,WND
+Wind Gust (mph),mph,WNG
+Wind Speed (mph),mph,WNS
+Dew Point (*F),*F,DEW
